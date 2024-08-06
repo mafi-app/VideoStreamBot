@@ -26,12 +26,12 @@
 
 ## Deploy Locally or Server ( NO SUPPORT FOR WINDOWS, Dont ask me if you use Windows )
 ``` 
-vegeta@arch $ git clone https://github.com/mafi-app/VideoStreamBot
-vegeta@arch $ cd VideoStreamBot
-vegeta@arch $ pip3 install -U -r requirements.txt
-vegeta@arch $ cp sample.env .env
+mafi-app@arch $ git clone https://github.com/mafi-app/VideoStreamBot
+mafi-app@arch $ cd VideoStreamBot
+mafi-app@arch $ pip3 install -U -r requirements.txt
+mafi-app@arch $ cp sample.env .env
 #Fill .env with your values
-vegeta@arch $ python3 -m VideoxD
+mafi-app@arch $ python3 -m VideoxD
  ```
 
 ## Config Vars
