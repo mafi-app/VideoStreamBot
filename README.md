@@ -3,15 +3,6 @@
 
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
-<br>
-    <img src="https://img.shields.io/github/license/VegetaxD/VideoStreamBot?style=for-the-badge" alt="LICENSE">
-    <img src="https://img.shields.io/github/contributors/VegetaxD/VideoStreamBot?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/VegetaxD/VideoStreamBot?style=for-the-badge" alt="Repository Size"> <br>
-    <img src="https://img.shields.io/github/forks/VegetaxD/VideoStreamBot?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/stars/VegetaxD/VideoStreamBot?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/watchers/VegetaxD/VideoStreamBot?style=for-the-badge" alt="Watchers">
-    <img src="https://img.shields.io/github/commit-activity/w/VegetaxD/VideoStreamBot?style=for-the-badge" alt="Commit Activity">
-</p>
  
 ## Requirements
 
@@ -23,10 +14,10 @@
 ## Deployment Methods and Sessions.
 
 ### Railway 
-<p><a href="https://railway.app/new/template?template=https://github.com/VegetaxD/VideoStreamBot&envs=API_ID,API_HASH,STRING_SESSION,BOT_TOKEN,VIDEO_CHAT_ID,CUSTOM_ICON"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+<p><a href="https://railway.app/new/template?template=https://github.com/mafi-app/VideoStreamBot&envs=API_ID,API_HASH,STRING_SESSION,BOT_TOKEN,VIDEO_CHAT_ID,CUSTOM_ICON"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
 ### Heroku 
-<p><a href="https://heroku.com/deploy?template=https://github.com/VegetaxD/VideoStreamBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/mafi-app/VideoStreamBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
  
 ### Generate String Session
 
@@ -35,7 +26,7 @@
 
 ## Deploy Locally or Server ( NO SUPPORT FOR WINDOWS, Dont ask me if you use Windows )
 ``` 
-vegeta@arch $ git clone https://github.com/VegetaxD/VideoStreamBot
+vegeta@arch $ git clone https://github.com/mafi-app/VideoStreamBot
 vegeta@arch $ cd VideoStreamBot
 vegeta@arch $ pip3 install -U -r requirements.txt
 vegeta@arch $ cp sample.env .env
